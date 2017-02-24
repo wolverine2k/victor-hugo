@@ -1,10 +1,13 @@
-baseurl = "https://wolverine2k.github.io"
+baseurl = "https://nareshhugo.netlify.com/"
 languageCode = "en-us"
 title = "Wolverine2k on Github"
 theme = "beautifulhugo"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 disqusShortname = "nareshse"
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
 #googleAnalytics = "XXX"
 
 [Params]
@@ -34,7 +37,7 @@ disqusShortname = "nareshse"
 
 [[menu.main]]
     name = "About"
-    url = "/page/about/"
+    url = "/about/"
     weight = 3
 
 [[menu.main]]

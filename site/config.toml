@@ -1,3 +1,56 @@
-baseurl = "/"
+baseurl = "./"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Wolverine2k on Github"
+theme = "beautifulhugo"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+disqusShortname = "nareshse"
+#contentDir = "content"
+#layoutDir = "layouts"
+#publishDir = "public"
+#googleAnalytics = "XXX"
+
+[Params]
+  subtitle = "Build a beautiful and simple website in minutes"
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  commit = false
+
+[Author]
+  name = "Naresh Mehta"
+  email = "naresh.mehta@gmail.com"
+  #facebook = "username"
+  github = "wolverine2k"
+  twitter = "wolverine2k"
+  linkedin = "nareshmehta"
+  #stackoverflow = "users/XXXXXXX/username"
+  #soundcloud = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #spotify = "username"
+  #itchio = "username"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "samples"
+    name = "Samples"
+    weight = 2
+
+[[menu.main]]
+    parent = "samples"
+    name = "Code Sample"
+    url = "/post/2016-03-08-code-sample"
+
+[[menu.main]]
+    parent = "samples"
+    name = "Test Markdown"
+    url = "/post/2015-02-20-test-markdown"

@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Naresh Mehta"
-baseurl = "./"
+baseurl = "/"
 theme = "hugo-geo"
 relativeURLs = true
 disqusShortname = "wolverine2k"

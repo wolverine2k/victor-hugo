@@ -1,10 +1,14 @@
 languageCode = "en-us"
 title = "Naresh Mehta"
 baseurl = "/"
+themesdir = "./themes"
 theme = "hugo-geo"
 relativeURLs = true
 disqusShortname = "wolverine2k"
 paginate = 5
+tags = ["blog"]
+features = ["blog", "responsive", "bootstrap"]
+min_version= 0.14
 
 [taxonomies]
 	tag = "tags"

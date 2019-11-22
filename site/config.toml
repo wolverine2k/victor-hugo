@@ -71,10 +71,6 @@ paginate = 5
     url = "https://facebook.com/wolverine2k"
 
   [[params.socialbuttons]]
-    faicon = "google-plus"
-    url = "https://plus.google.com/107609468931427204531"
-
-  [[params.socialbuttons]]
     faicon = "instagram"
     url = "http://instagram.com/wolverine2k"
 

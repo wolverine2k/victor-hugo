@@ -6,4 +6,4 @@
 	url = https://github.com/htr3n/hyde-hyde.git
 [submodule "site/themes/m10c"]
 	path = site/themes/m10c
-	url = https://github.com/vaga/hugo-theme-m10c.git
+	url = https://github.com/scratchmesh/hugo-theme-m10c.git

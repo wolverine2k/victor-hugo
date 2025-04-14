@@ -36,7 +36,7 @@ paginate = 5
 	title = "Naresh Mehta"
   author = "Naresh Mehta"
 	subtitle = "Ideas analyzed logically to make sense & grow upon..."
-  description = "Ideas analyzed logically to make sense & grow upon..."
+  description = "My personal blog where I write about various topics including politics, technology, anthropology, philosophy, religion, business, and everything under the sun!"
 
   [[params.socialbuttons]]
     faicon = "twitter"
@@ -77,7 +77,3 @@ paginate = 5
   [[params.socialbuttons]]
     faicon = "youtube"
     url = "https://www.youtube.com/user/wolverine2k1"
-
-#  [[params.socialbuttons]]
-#    faicon = "skype"
-#    url = "skype:wolverine2k?userinfo"
